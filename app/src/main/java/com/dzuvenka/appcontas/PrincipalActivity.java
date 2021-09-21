@@ -27,7 +27,7 @@ public class PrincipalActivity extends AppCompatActivity {
     private TextView textoSaudacao, textoSaldo;
     private Double despesaTotal = 0.0;
     private Double receitaTotal = 0.0;
-    private Double resumoUsuario = 0.0;
+    private Double resumoUsuarioteste = 0.0;
 
    // private FirebaseAuth autenticacao = ConfiguracaoFirebase.getFirebaseAutenticacao();
    // private DatabaseReference firebaseRef = ConfiguracaoFirebase.getFirebaseDatabase();
